@@ -1,1 +1,8 @@
+12132342342423<<<<<<< HEAD
  more text... fkhdfkksdfhskdfksdhjf
+=======
+..more text...
+
+
+fkhdfkksdfhskdfksdhjf
+>>>>>>> b2483ec9a896dc993b5e08f4e89ab4cc791a16aa
